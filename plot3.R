@@ -1,4 +1,4 @@
-##Exploratory Data Analysis Week1 plot2 2020/12
+##Exploratory Data Analysis Week1 plot3 2020/12
 ##Load packages
 library(dplyr)
 library(lubridate)
